@@ -1,2 +1,4 @@
 # hashCode2021
-hash code competition repo
+
+## Team member: Eryn, Jarry & Whale
+## Feb 6 2021 -
